@@ -1,5 +1,3 @@
-# perfil
-Meu perfil de trabalho
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=127&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=200&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=true&theme=cobalt"  />
 </div>
@@ -35,15 +33,7 @@ Meu perfil de trabalho
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kutsky/Kutsky/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Kutsky/Kutsky/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kutsky/Kutsky/snake-output/snake.svg" alt="Snake animation" />
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kutsky\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Kutsky\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 ###
